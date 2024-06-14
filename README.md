@@ -56,13 +56,13 @@ MOOC Java Programming II is an advanced course that builds upon the fundamentals
    - Connection Pooling
 
 10. **Advanced Topics**
-   - Design Patterns
-   - Lambda Expressions and Functional Programming
-   - Streams API
-   - Unit Testing with JUnit
+      - Design Patterns
+      - Lambda Expressions and Functional Programming
+      - Streams API
+      - Unit Testing with JUnit
 
 11. **Project Work**
-   - Capstone Project or Multiple Small Projects to apply the learned concepts
+      - Capstone Project or Multiple Small Projects to apply the learned concepts
 
 ## Repository Structure
 
@@ -75,11 +75,14 @@ MOOC Java Programming II is an advanced course that builds upon the fundamentals
 ## Getting Started
 
 1. **Clone the repository:**
+   ```sh
    git clone https://github.com/shamsiabbasoglu/MOOC-Java-Programming-II.git
    cd MOOC-Java-Programming-II
 2. **Navigate to the desired module or project:**
+   ```sh
     cd src/module-name
 3. **Compile and run the Java programs:**
+   ```sh
     javac Filename.java
     java Filename
 
@@ -90,7 +93,5 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Acknowledgements
 
 This course is provided by [University of Helsinki](https://www.helsinki.fi/en). Special thanks to the instructors and course developers.
-
----
 
 Happy coding!🚀
